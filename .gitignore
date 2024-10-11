@@ -1,0 +1,27 @@
+# Ignore Maven/Gradle build directories
+/target
+/.gradle
+/build
+
+# Ignore temporary files
+*.log
+*.class
+
+# Ignore IDE configuration files
+/.idea
+*.iml
+/.project
+/.classpath
+/.settings
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore Java compiled files
+*.jar
+*.war
+
+# Ignore Maven wrapper files
+.mvn
+mvnw*
